@@ -1,9 +1,8 @@
 # fake-react
 React를 직접 만들어 보자
 
-## 1. 실행방법
-```
-parcel index.html
-```
+## Getting started
 
-http://localhost:1234 
+1. `yarn`
+1. `parcel index.html`
+1. `open http://localhost:1234`
